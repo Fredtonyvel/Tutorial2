@@ -14,3 +14,10 @@ Now I will experiment these new abilities:
 -git checkout -b <new_branch_name>
 -git merge
 
+I have now learned new abilities:
+-git branch
+-git checkout -b <new_branch_name>
+-git merge
+
+I still need to push beyond!!
+
