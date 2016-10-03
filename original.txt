@@ -1,5 +1,3 @@
-(Hey original! I noticed that you misspelled living on your text file. So I decided to editted the changes for you :) )
-
 I am the original.  
 I have used the github force to create life.  
 I have made a living clone of myself on github!
